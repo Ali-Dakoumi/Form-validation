@@ -1,3 +1,3 @@
 # Vanilla Javascript form validation
-Simple Vanilla Javascript modal with form and fields validation.
-No plugins/frameworks used.
+
+Simple form validation wwith html css and javascript.
